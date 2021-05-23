@@ -16,4 +16,4 @@ Brain. This was intended as a boss for a shoot'em up game I was working on. It o
 
 <img src="Moon.png" alt="Moon" width="352"/> <img src="SolarSystem.png" alt="SolarSystem" width="352"/>
 
-Early steps with Deluxe Paint II from back in the day.
+Early steps with Deluxe Paint II from back in the day. These are drawn at overscan resolution and where planned as part of a game attract mode.
